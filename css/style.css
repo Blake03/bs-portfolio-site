@@ -1,0 +1,108 @@
+
+
+
+
+
+body{
+  color: white;
+  background-color: #222222;
+  padding: 0px; 
+  font-size: 16px;
+}
+
+
+p {
+  font-size: 18px;
+}
+
+
+.section-title{
+  text-align: center;
+}
+
+.navbar {
+  padding-right: 15px;
+}
+.welcome {
+    background: url(https://newevolutiondesigns.com/images/freebies/nature-hd-background-10.jpg);
+    background-size:cover;
+    
+    vertical-align: middle;
+    text-align: center;
+    position: relative;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+
+.overlay {
+  width: 40%;
+  height: 100%;
+  background: url(http://fonline-reloaded.net/img/overlay.png);
+  padding: 9px;
+  border-radius: 25px;
+  background-color: rgba(0, 0, 0, .5);
+}
+
+
+
+#about {
+  padding-top: 50px
+}
+
+.profile-pic-container {
+  padding-top: 150px;
+  
+    
+  }
+
+.profile-pic {
+  position: relative;
+  left: 45px
+}
+#portfolio {
+ padding-top: 40px
+}
+
+.footer {
+   background-color: black;
+  
+   margin-top: 10px;
+}
+    
+hr { 
+  border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); }
+}
+
+#hr1 {
+  padding-top: 10px;
+  margin: 0px;
+}
+
+.bgBlack {
+  background-color: rgba(0, 0, 0, .93);
+}
+
+
+
+
+.center {
+
+    vertical-align: middle;
+    text-align: center;
+    position: relative;
+}
+
+.floating-block{
+  display: inline-block;
+  position: relative;
+
+}
+
+
+.margin{
+  margin: 10px;
+}
+.social-btn{
+  margin-bottom: 10px;
+
